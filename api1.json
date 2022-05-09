@@ -1,0 +1,12 @@
+{
+    "landing":[
+        {
+            "collectiontype" : "home",
+            "collectionid" : 0
+        },
+        {
+            "collectiontype" : "landing",
+            "collectionid" : 1
+        }
+    ]
+}

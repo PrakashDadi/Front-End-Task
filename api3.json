@@ -1,0 +1,77 @@
+{
+    "idNo": 1,
+    "articles":[
+        {
+            "articlesNumber": 1,
+            "source": {
+            "id": 1,
+            "name": "Engadget"
+            },
+            "author": "Mariella Moon",
+            "title": "Apple's AirTag 4-pack has never been cheaper",
+            "description": "If you have several items (or pets) you want to keep track of, this is a great chance to grab multiple Apple AirTags at once. You can pick up a four-pack from Best Buy for $84.55, or $14.45 less than its retail price of $99. That's even cheaper than the packa…",
+            "url": "https://www.engadget.com/apples-airtag-4-pack-best-buy-101055969.html",
+            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2022-05/a6e1eeb0-cc4f-11ec-bef9-3ebebcb882f8",
+            "publishedAt": "2022-05-05T10:10:55Z",
+            "content": "If you have several items (or pets) you want to keep track of, this is a great chance to grab multiple Apple AirTags at once. You can pick up a four-pack from Best Buy for $84.55, or $14.45 less than… [+1294 chars]"
+            },
+       
+            {
+                "articlesNumber": 2,
+                "source": {
+                "id": 2,
+                "name": "Engadget"
+                },
+                "author": "Amrita Khalid",
+                "title": "Google Nest cameras now work with Amazon Alexa devices",
+                "description": "The smart home ecosystem is getting a little more integrated: Google just updated its Amazon Alexa Skill to work on its latest Nest cameras. So if you already own a variety of Nest and Alexa devices, they'll work together more seamlessly moving forward. Now, …",
+                "url": "https://www.engadget.com/google-nest-cameras-now-work-on-amazons-alexa-fire-devices-204134561.html",
+                "urlToImage": "https://s.yimg.com/os/creatr-images/2019-02/673689d0-3146-11e9-8ffe-51074c4ee163",
+                "publishedAt": "2022-05-05T20:41:34Z",
+                "content": "The smart home ecosystem is getting a little more integrated: Google just updated its Amazon Alexa Skill to work on its latest Nest cameras. So if you already own a variety of Nest and Alexa devices,… [+1348 chars]"
+                },
+                {
+                    "articlesNumber": 3,
+                    "source": {
+                    "id": 3,
+                    "name": "The Verge"
+                    },
+                    "author": "Corin Faife",
+                    "title": "Apple, Google, and Microsoft will soon implement passwordless sign-in on all major platforms",
+                    "description": "On World Password Day, Apple, Google, and Microsoft committed to broad support over the next year for secure FIDO “passkey” sign-in technology that removes the need for passwords at all.",
+                    "url": "https://www.theverge.com/2022/5/5/23057646/apple-google-microsoft-passwordless-sign-in-fido",
+                    "urlToImage": "https://cdn.vox-cdn.com/thumbor/BeAXzJ1Lyg66sfxsMCdXcdQLGaM=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22310804/acastro_210217_1777_passwords_0002.jpg",
+                    "publishedAt": "2022-05-05T13:05:25Z",
+                    "content": "Illustration by Alex Castro / The Verge\r\n\n \n\n On May 5th — World Password Day — we might have come one step closer to passwords being a thing of the past.\nIn a joint effort, tech giants Apple, Google… [+4527 chars]"
+                    },
+                    {
+                    "articlesNumber": 4,
+                    "source": {
+                    "id": 4,
+                    "name": "The Verge"
+                    },
+                    "author": "Victoria Song",
+                    "title": "How to track your menstrual cycles on a smartwatch",
+                    "description": "There’s no shortage of period tracking apps for your phone, but a few smartwatches and fitness trackers — the Apple Watch, Fitbits, Garmins, and Samsung Galaxy Watches — will also allow you to view your cycle and input data straight from your wrist.",
+                    "url": "https://www.theverge.com/23058888/smartwatch-menstrual-cycle-how-to",
+                    "urlToImage": "https://cdn.vox-cdn.com/thumbor/LvOOv2IcjmmGSYx-S7TRMuadcL4=/0x292:2040x1360/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23440688/IMG_2897.jpg",
+                    "publishedAt": "2022-05-05T19:24:19Z",
+                    "content": "Apple introduced Cycle Tracking on the Series 5. | Photography by Victoria Song / The Verge\r\n\n \n\n Although modern smartwatches and fitness trackers have been around for almost a decade, period tracki… [+9738 chars]"
+                    },
+                    {
+                    "articlesNumber": 5,
+                    "source": {
+                    "id": 5,
+                    "name": "Gizmodo.com"
+                    },
+                    "author": "Florence Ion",
+                    "title": "Apple Will Ship You 79 Pounds of Gear for $49",
+                    "description": "The right to repair movement has taken off in recent years. With Apple, Google, Samsung, and Microsoft signing on, it feels like the devices we’re buying actually belong to us. But despite the big names signing on, there are still a few caveats to consider—li…",
+                    "url": "https://gizmodo.com/apple-right-to-repair-star-wars-gadgettes-episode-1848887411",
+                    "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/49fdd31d5ec914236fe4e0abfa0f0228.jpg",
+                    "publishedAt": "2022-05-05T20:40:00Z",
+                    "content": "The right to repair movement has taken off in recent years. With Apple, Google, Samsung, and Microsoft signing on, it feels like the devices were buying actually belong to us. But despite the big nam… [+1587 chars]"
+                    }
+                
+    ]
+}

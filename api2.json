@@ -1,0 +1,75 @@
+{
+    "idNo": 0,
+    "articles":[
+        {
+            "articlesNumber": 1,
+            "source": {
+                "id": 1,
+                "name": "Tecmundo.com.br"
+            },
+            "author": "Nilton Kleina",
+            "title": "Bill Gates provoca e diz que Musk pode piorar o Twitter",
+            "description": "O empresário Bill Gates, cofundador e ex-CEO da Microsoft, levantou questionamentos sobre como será a gerência do Twitter sob a gestão de Elon Musk, atual pessoa mais rica do mundo. O bilionário da Tesla e da SpaceX adquiriu a rede social em uma negociação de…",
+            "url": "https://www.tecmundo.com.br/mercado/238169-bill-gates-provoca-diz-musk-piorar-twitter.htm",
+            "urlToImage": "https://tm.ibxk.com.br/2022/05/05/05094330747024.jpg",
+            "publishedAt": "2022-05-05T13:22:26Z",
+            "content": "O empresário Bill Gates, cofundador e ex-CEO da Microsoft, levantou questionamentos sobre como será a gerência do Twitter sob a gestão de Elon Musk, atual pessoa mais rica do mundo. O bilionário da T… [+1501 chars]"
+        },
+        {
+            "articlesNumber": 2,
+            "source": {
+                "id": 2,
+                "name": "Phonandroid"
+            },
+            "author": "Kevin Dachez",
+            "title": "Voitures électriques : seulement 16,2 % des stations de recharges européennes sont en France",
+            "description": "L'association ChargeUp vient de publier un rapport détaillé sur les infrastructures dédiées à la recharge des voitures électriques en Europe. L'occasion de faire le point sur le nombre de stations disponibles sur le Vieux Continent, mais aussi sur les dispari…",
+            "url": "https://www.phonandroid.com/voitures-electriques-seulement-162-des-stations-de-recharges-europeennes-sont-en-france.html",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/xtPDqpafZg9zEgG5btdypZ-1200-80.jpeg",
+            "publishedAt": "2022-05-05T13:21:51Z",
+            "content": "L'association ChargeUp vient de publier un rapport détaillé sur les infrastructures dédiées à la recharge des voitures électriques en Europe. L'occasion de faire le point sur le nombre de stations di… [+2670 chars]"
+        },
+        {
+            "articlesNumber": 3,
+            "source": {
+                "id": 3,
+                "name": "CBS News"
+            },
+            "author": null,
+            "title": "Musk's Twitter bid gets $7 billion in backing from tech titans",
+            "description": "Tech titans including Oracle co-founder Larry Ellison have pledged funding, strengthening the equity stake of Musk's buyout.",
+            "url": "https://www.cbsnews.com/news/elon-musk-twitter-7-billion-funding/",
+            "urlToImage": "https://images.wsj.net/im-538248/social",
+            "publishedAt": "2022-05-05T13:17:18Z",
+            "content": "Billionaire Elon Musk has strengthened the equity stake of his offer to buy Twitter  with commitments of more than $7 billion from a range of investors, including Silicon Valley titans like Oracle co… [+2299 chars]"
+        },
+        {
+            "articlesNumber": 4,
+            "source": {
+                "id": 4,
+                "name": "Seeking Alpha"
+            },
+            "author": "Jason Capul",
+            "title": "Cathie Wood and Elon Musk see eye-to-eye on actively managed funds",
+            "description": "ARK Invest founder and CEO, Cathie Wood and Elon Musk share similar ideas and visions when it comes to actively managed funds.",
+            "url": "https://seekingalpha.com/news/3833331-cathie-wood-elon-musk-see-eye-to-eye-with-actively-managed-funds",
+            "urlToImage": "https://www.reuters.com/resizer/dM22WmfLotUmMpBWYx416ee-mbM=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/IAXRHRP245J4JIPBPC52OHICNA.jpg",
+            "publishedAt": "2022-05-05T13:15:06Z",
+            "content": "Khaosai Wongnatthakan/iStock via Getty Images\r\nARK Invest founder and CEO Cathie Wood and Tesla boss Elon Musk share similar visions when it comes to actively managed funds, with both recently speaki… [+1451 chars]"
+        },
+        {
+            "articlesNumber": 5,
+            "source": {
+                "id": 5,
+                "name": "Ixbt.com"
+            },
+            "author": "vorobiev@ixbt.com (Vorobiev)",
+            "title": "Binance вместе с Илоном Маском поучаствовала в покупке Twitter чеком на 0,5 млрд долл США",
+            "description": "Криптовалютная биржа Binance выделила 500 млн долл. США на финансирование сделки по поглощению социальной сети Twitter, которую инициировал Илон Маск. Эту информацию миллиардер указал в отчетё для Комиссии по ценным бумагам и биржам США (SEC). \r\n Согласно док…",
+            "url": "https://www.ixbt.com/news/2022/05/05/binance-twitter-0-5.html",
+            "urlToImage": "https://www.reuters.com/resizer/JWuK-3gHTDTKlxr3NPqs59LHn4o=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/AYCHLFTISFNBHLKF47ADH32B5E.jpg",
+            "publishedAt": "2022-05-05T13:15:00Z",
+            "content": "Binance 500 . Twitter, .     (SEC).\r\n , « » 7,14 . . ,  1   The Lawrence J. Ellison Revocable Trust. Sequoia Capital, 800 . . .\r\n ,   ,  , 60 Tesla . , Tesla , P/E (Price/Earnings per share -     ) 2… [+42 chars]"
+        }
+    ]
+}
